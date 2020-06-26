@@ -12,6 +12,5 @@ public class StringManager {
             return s.toLowerCase();
         }
         return s.toUpperCase();
-
     }
 }
